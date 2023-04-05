@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mengxi.xyz/site/gtp/index.html</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mengxi.xyz/social/link/index.html</loc>
     
     <lastmod>2023-03-19</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://www.mengxi.xyz/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mengxi.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
