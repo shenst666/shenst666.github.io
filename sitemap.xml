@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mengxi.xyz/personal/zhushou/index.html</loc>
+    
+    <lastmod>2023-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mengxi.xyz/posts/0.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mengxi.xyz/site/gtp/index.html</loc>
     
     <lastmod>2023-04-11</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://www.mengxi.xyz/posts/265696892.html</loc>
-    
-    <lastmod>2023-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mengxi.xyz/posts/0.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://www.mengxi.xyz/site/census/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mengxi.xyz/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -226,10 +226,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://www.mengxi.xyz/site/echarts%20-%20%E5%89%AF%E6%9C%AC/index.html</loc>
+    
+    <lastmod>2022-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://www.mengxi.xyz/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -237,28 +246,28 @@
   
   <url>
     <loc>https://www.mengxi.xyz/tags/Markdown/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mengxi.xyz/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mengxi.xyz/tags/LINUX/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mengxi.xyz/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -267,14 +276,14 @@
   
   <url>
     <loc>https://www.mengxi.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mengxi.xyz/categories/LINUX/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
